@@ -1,5 +1,60 @@
 {
- "employeData":[{
-  
- }]
+  "employeData": [
+    {
+      "name": "avinash2",
+      "age": "22",
+      "salary": "50000",
+      "department": "IT",
+      "maritial": true,
+      "id": 1
+    },
+    {
+      "name": "kumar",
+      "age": "22",
+      "salary": "50000",
+      "department": "IT",
+      "maritial": true,
+      "id": 2
+    },
+    {
+      "name": "avinash kumar ray",
+      "age": "55",
+      "salary": "33333",
+      "department": "Non-IT",
+      "maritial": false,
+      "id": 3
+    },
+    {
+      "name": "adf",
+      "age": "",
+      "salary": "sdf",
+      "department": "Non-IT",
+      "maritial": true,
+      "id": 4
+    },
+    {
+      "name": "adf",
+      "age": "22",
+      "salary": "sdf",
+      "department": "Non-IT",
+      "maritial": true,
+      "id": 5
+    },
+    {
+      "name": "full sleev shirt",
+      "age": "",
+      "salary": "",
+      "department": "",
+      "maritial": false,
+      "id": 6
+    },
+    {
+      "name": "asdfsdfsdfsdf",
+      "age": "",
+      "salary": "",
+      "department": "",
+      "maritial": false,
+      "id": 7
+    }
+  ]
 }
